@@ -1,0 +1,10 @@
+DATA/
+*.zip
+*.csv
+*.h5
+
+NOTEBOOKS/
+report.html    
+
+
+report.html
